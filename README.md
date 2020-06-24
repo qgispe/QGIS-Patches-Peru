@@ -22,7 +22,7 @@ Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
 
 # Example
 
-If you want replicate this example only click [here](), then once you have downloaded a patch file, then import it in QGIS as per the screenshots below:
+If you want replicate this example only click [here](https://github.com/barja8/QGIS-Patches-Peru/tree/master/TopoMap), then once you have downloaded a patch file, then import it in QGIS as per the screenshots below:
 
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/img01.png?raw=true)
 

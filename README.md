@@ -3,8 +3,8 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?color=blue&label=qgis%3A%3Astarts&logo=qgis&logoColor=green)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/kartoza/QGIS-Legend-Patches/commits/master)
-
+![GitHub forks](https://img.shields.io/github/forks/barja8/QGIS-Patches-Peru?style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/barja8/QGIS-Patches-Peru?color=green&style=plastic)
 <a href="https://www.linkedin.com/in/antonybarja/"><img alt="@antonybarja" 
 src="https://img.shields.io/badge/Autor-Antony%20J.%20Barja-lightgrey" /></a>
 

@@ -26,7 +26,6 @@ If you want replicate this example only click [here](https://github.com/barja8/Q
 
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/img01.png?raw=true)
 
-
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/img02.png?raw=true)
 
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/img03.png?raw=true)
@@ -37,13 +36,17 @@ If you want replicate this example only click [here](https://github.com/barja8/Q
 
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/TopoMap.png?raw=true)
 
-# Other examples 
-
-<img src = 'https://github.com/ValPinnaSardinia/Archaeological-Legend-Patches-for-QGIS-3.14/raw/master/2020-05-01_195506.jpg' width = 200 height = 100 align = 'left'>
-
-<img src = 'https://github.com/ValPinnaSardinia/Archaeological-Legend-Patches-for-QGIS-3.14/raw/master/11111.jpg' width = 100 height = 100 align = 'righ'>
-
-<img src = 'https://github.com/barja8/Friends/raw/master/QGIS/Img/peru_provinces.png?raw=true' width = 200 height = 100 align = 'righ'>
+# Other examples
+<p align = 'left'>
+<img src = 'https://github.com/ValPinnaSardinia/Archaeological-Legend-Patches-for-QGIS-3.14/raw/master/2020-05-01_195506.jpg' width = 200 height = 100 >
+ <p />
+<p align = 'left'> 
+<img src = 'https://github.com/ValPinnaSardinia/Archaeological-Legend-Patches-for-QGIS-3.14/raw/master/11111.jpg' width = 100 height = 100 align = 'right' />
+ <p />
+<p align = 'left'>
+<img src = 'https://github.com/barja8/Friends/raw/master/QGIS/Img/peru_provinces.png?raw=true' width = 180 height = 100 align = 'right' />
+ <p />
+<br />
 
 # How to Contribute
  If you want contribute to this repository with patches about Peru, please only submit a pull request with an **XML** of your styles.

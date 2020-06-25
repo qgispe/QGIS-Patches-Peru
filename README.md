@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/barja8/QGIS-Patches-Peru?style=plastic)
 ![GitHub stars](https://img.shields.io/github/stars/barja8/QGIS-Patches-Peru?color=green&style=plastic)
 <a href="https://www.linkedin.com/in/antonybarja/"><img alt="@antonybarja" 
-src="https://img.shields.io/badge/Autor-Antony%20J.%20Barja-lightgrey" /></a>
+src="https://img.shields.io/badge/Autor-Antony%20M.%20Barja-lightgrey" /></a>
 
 This repository is a copy of Qgis-Legend-Package created by **Kartosa**.
 Here you'll find a collection of patches for Peru and other temathics to use in your legends inside **QGIS** :3 

@@ -15,9 +15,6 @@ Here you'll find a collection of patches for Peru and other temathics to use in 
 
 Name | Author | File
 -----|--------|-------
-All  | Various | all-patch-shapes.xml
-Klas Patches | Klas Karlsson | klas-karlsson-patches.xml
-Archaeology Patches | Val Pinna | Archaeological_patches.xml
 Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
 
 # Example

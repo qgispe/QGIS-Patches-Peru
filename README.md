@@ -17,9 +17,14 @@ Name | Author | File
 -----|--------|-------
 Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
 
+
+![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_regions.png?raw=true)
+
+![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_provinces.png?raw=true)
+
 # Example
 
-If you want replicate this example only click [here](https://github.com/barja8/QGIS-Patches-Peru/tree/master/TopoMap), then once you have downloaded a patch file, then import it in QGIS as per the screenshots below:
+If you want replicate this example only click [here](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_regions.png?raw=true), then once you have downloaded a patch file, then import it in QGIS as per the screenshots below:
 
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/img01.png?raw=true)
 
@@ -34,7 +39,7 @@ If you want replicate this example only click [here](https://github.com/barja8/Q
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/TopoMap.png?raw=true)
 
 # How to Contribute
-If you want contribute to this repository with patches about Peru, please only submit a pull request with an **XML** of your styles.
+If you want contribute to this repository with patches about Peru, please only submit a **pull request** with an **XML** of your styles.
 
 # References : 
 

@@ -17,9 +17,10 @@ Name | Author | File
 -----|--------|-------
 Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
 
-
+## Regions
 ![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_regions.png?raw=true)
 
+## Provinces
 ![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_provinces.png?raw=true)
 
 # Example

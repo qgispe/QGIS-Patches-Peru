@@ -14,7 +14,7 @@ Here you'll find a collection of patches for Peru and other temathics to use in 
 
 Name | Author | File
 -----|--------|-------
-Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
+Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml
 
 ## Regions[24]
 ![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_regions.png?raw=true)

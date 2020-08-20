@@ -1,6 +1,5 @@
 # QGIS-Legend-Patches-Peru
 
-
 ![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?color=blue&label=qgis%3A%3Astarts&logo=qgis&logoColor=green)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub forks](https://img.shields.io/github/forks/barja8/QGIS-Patches-Peru?style=plastic)
@@ -22,6 +21,9 @@ Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
 
 ## Provinces[196]
 ![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_provinces.png?raw=true)
+
+## Districts [1875]
+
 
 # Example
 

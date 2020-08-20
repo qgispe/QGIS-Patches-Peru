@@ -23,7 +23,7 @@ Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
 ![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_provinces.png?raw=true)
 
 ## Districts [1875]
-
+![img](https://raw.githubusercontent.com/barja8/QGIS-Patches-Peru/master/Peru%20Patches/Peru_districts.png)
 
 # Example
 

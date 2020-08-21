@@ -25,6 +25,8 @@ Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml - Peru_distr
 ## Districts [1875]
 ![img](https://raw.githubusercontent.com/barja8/QGIS-Patches-Peru/master/Peru%20Patches/Peru_districts.png)
 
+## Link of download [Peru_patches](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
+
 # Example
 
 If you want replicate this example only click [here](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_regions.png?raw=true), then once you have downloaded a patch file, then import it in QGIS as per the screenshots below:

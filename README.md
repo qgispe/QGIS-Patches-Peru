@@ -50,4 +50,4 @@ If you want contribute to this repository with patches about Peru, please only s
 
 * QGIS-Legend-Patches, (2020), Kartosa, *https://github.com/kartoza/QGIS-Legend-Patches*
 
-![](https://github.com/barja8/Friends/blob/master/QGIS/Img/icons/istat88x31.png?raw=true) All data produced in this project are published under a [Creative Commons license (CC BY 3.0 IT)]((https://creativecommons.org/share-your-work/)): Data may be freely reproduced, distributed, transmitted and adapted, including for commercial purposes, provided that the source is acknowledged.
+![](https://github.com/barja8/Friends/blob/master/QGIS/Img/icons/istat88x31.png?raw=true) All data produced in this project are published under a [Creative Commons license (CC BY 3.0 PE)]((https://creativecommons.org/share-your-work/)): Data may be freely reproduced, distributed, transmitted and adapted, including for commercial purposes, provided that the source is acknowledged.

@@ -33,9 +33,7 @@ Riego | Fernando Tuesta | Riego.xml
 
 ![img](https://raw.githubusercontent.com/qgispe/QGIS-Patches-Peru/master/Riego/Riego.png)
 
-## Link of download [Riego](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
-
-
+## Link of download [Riego](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Riego/Riego.zip)
 
 # Example
 

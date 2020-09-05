@@ -15,6 +15,8 @@ Here you'll find a collection of patches for Peru and other temathics to use in 
 Name | Author | File
 -----|--------|-------
 Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml
+Riego | Fernando Tuesta | Riego.xml
+
 
 ## Regions[24]
 ![img](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_regions.png?raw=true)
@@ -25,7 +27,15 @@ Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml - Peru_distr
 ## Districts [1875]
 ![img](https://raw.githubusercontent.com/barja8/QGIS-Patches-Peru/master/Peru%20Patches/Peru_districts.png)
 
-## Link of download [Peru_patches](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
+## Link of download [Peru](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
+
+## Riego
+
+![img]()
+
+## Link of download [Riego](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
+
+
 
 # Example
 

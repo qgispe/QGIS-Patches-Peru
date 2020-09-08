@@ -1,11 +1,10 @@
 # QGIS-Legend-Patches-Peru
 
 ![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?color=blue&label=qgis%3A%3Astarts&logo=qgis&logoColor=green)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub forks](https://img.shields.io/github/forks/barja8/QGIS-Patches-Peru?style=plastic)
+<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/QGISPeru-%23FF0000.svg?&style=for-the-plastic&logo=qgis&logoColor=white" height=20></a> ![GitHub forks](https://img.shields.io/github/forks/barja8/QGIS-Patches-Peru?style=plastic )
 ![GitHub stars](https://img.shields.io/github/stars/barja8/QGIS-Patches-Peru?color=green&style=plastic)
 <a href="https://www.linkedin.com/in/antonybarja/"><img alt="@antonybarja" 
-src="https://img.shields.io/badge/Autor-Antony%20M.%20Barja-lightgrey" /></a>
+src="https://img.shields.io/badge/Autor-Antony%20M.%20Barja-lightgrey" height=20/></a>
 
 This repository is a copy of Qgis-Legend-Package created by **Kartosa**.
 Here you'll find a collection of patches for Peru and other temathics to use in your legends inside **QGIS** :3 
@@ -14,8 +13,8 @@ Here you'll find a collection of patches for Peru and other temathics to use in 
 
 Name | Author | File
 -----|--------|-------
-Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml
-Riego | Fernando Tuesta | Riego.xml
+Peru patches | **Antony Barja** | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml
+Riego | **Fernando Tuesta** | Riego.xml
 
 
 ## Regions[24]
@@ -37,7 +36,7 @@ Riego | Fernando Tuesta | Riego.xml
 
 # Example
 
-If you want replicate this example only click [here](https://github.com/barja8/QGIS-Patches-Peru/blob/master/Peru%20Patches/Peru_regions.png?raw=true), then once you have downloaded a patch file, then import it in QGIS as per the screenshots below:
+If you want replicate this example only click [here](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Example/Example.tar), then once you have downloaded a patch file, then import it in QGIS as per the screenshots below:
 
 ![image](https://github.com/barja8/Friends/blob/master/QGIS/Img/patches/img01.png?raw=true)
 

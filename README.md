@@ -23,11 +23,11 @@ Here you'll find a collection of patches for Peru and other temathics to use in 
 
 # Collections
 
-Name | Author | File
------|--------|-------
-Peru patches | **Antony Barja** | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml
-Riego | **Fernando Tuesta** | Riego.xml
-Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml
+Name | Author | File | download
+-----|--------|-------|-------
+Peru patches | **Antony Barja** | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml | [download-peru](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
+Riego | **Fernando Tuesta** | Riego.xml |[download-riego](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Riego/Riego.zip)
+Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml| [download-peru](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
 
 
 
@@ -46,14 +46,10 @@ Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml
 
 ![img](https://raw.githubusercontent.com/qgispe/QGIS-Patches-Peru/master/Riego/Riego.png)
 
-## Link of download [Riego](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Riego/Riego.zip)
-
 
 ## Archaeological
 
 ![img](https://raw.githubusercontent.com/qgispe/QGIS-Patches-Peru/master/Archaeology%20Patches/assets/archaeology-51e47320.jpg)
-
-## Link of download [Riego]()
 
 # Example
 

@@ -1,10 +1,22 @@
 # QGIS-Legend-Patches-Peru
 
-![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?color=blue&label=qgis%3A%3Astarts&logo=qgis&logoColor=green)
-<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/QGISPeru-%23FF0000.svg?&style=for-the-plastic&logo=qgis&logoColor=white" height=20></a> ![GitHub forks](https://img.shields.io/github/forks/barja8/QGIS-Patches-Peru?style=plastic )
-![GitHub stars](https://img.shields.io/github/stars/barja8/QGIS-Patches-Peru?color=green&style=plastic)
-<a href="https://www.linkedin.com/in/antonybarja/"><img alt="@antonybarja" 
-src="https://img.shields.io/badge/Autor-Antony%20M.%20Barja-lightgrey" height=20/></a>
+<p>
+ <a href="https://github.com/qgispe">
+  <img src="https://img.shields.io/badge/QGIS_Perú-%258f01.svg?&style=for-the-badge&logo=qgis&logoColor=white" height="23">
+  </a>
+ <a href="https://github.com/qgispe">
+  <img src="https://img.shields.io/github/forks/barja8/QGIS-Patches-Peru?style=for-the-badge" height="23">
+  </a>
+ <a href="https://github.com/qgispe">
+  <img src="https://img.shields.io/github/stars/barja8/QGIS-Patches-Peru?style=for-the-badge" height="23">
+  </a>
+ <a href="https://github.com/qgispe">
+  <img src="https://img.shields.io/badge/Autor-Antony%20M.%20Barja-lightgrey?style=for-the-badge" height="23">
+  </a>
+
+<p>
+
+
 
 This repository is a copy of Qgis-Legend-Package created by **Kartosa**.
 Here you'll find a collection of patches for Peru and other temathics to use in your legends inside **QGIS** :3 
@@ -15,6 +27,8 @@ Name | Author | File
 -----|--------|-------
 Peru patches | **Antony Barja** | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml
 Riego | **Fernando Tuesta** | Riego.xml
+Archaeology |**Diana Morovego**| Archaeological_Patches_Peru.xml
+
 
 
 ## Regions[24]
@@ -29,6 +43,14 @@ Riego | **Fernando Tuesta** | Riego.xml
 ## Link of download [Peru](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
 
 ## Riego
+
+![img](https://raw.githubusercontent.com/qgispe/QGIS-Patches-Peru/master/Riego/Riego.png)
+
+## Link of download [Riego](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Riego/Riego.zip)
+
+
+## Archaeological
+
 
 ![img](https://raw.githubusercontent.com/qgispe/QGIS-Patches-Peru/master/Riego/Riego.png)
 

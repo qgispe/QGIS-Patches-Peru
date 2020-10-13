@@ -27,7 +27,7 @@ Name | Author | File
 -----|--------|-------
 Peru patches | **Antony Barja** | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml
 Riego | **Fernando Tuesta** | Riego.xml
-Archaeology |**Diana Morovego**| Archaeological_Patches_Peru.xml
+Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml
 
 
 

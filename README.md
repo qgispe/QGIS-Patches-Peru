@@ -51,10 +51,9 @@ Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml
 
 ## Archaeological
 
+![img](https://raw.githubusercontent.com/qgispe/QGIS-Patches-Peru/master/Archaeology%20Patches/assets/archaeology-51e47320.jpg)
 
-![img](https://raw.githubusercontent.com/qgispe/QGIS-Patches-Peru/master/Riego/Riego.png)
-
-## Link of download [Riego](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Riego/Riego.zip)
+## Link of download [Riego]()
 
 # Example
 

@@ -27,7 +27,7 @@ Name | Author | File | download
 -----|--------|-------|-------
 Peru patches | **Antony Barja** | Peru_regions.xml - Peru_provinces.xml - Peru_districts.xml | [download-peru](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
 Riego | **Fernando Tuesta** | Riego.xml |[download-riego](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Riego/Riego.zip)
-Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml| [download-peru](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
+Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml| [download-peru](https://github.com/qgispe/QGIS-Patches-Peru/raw/master/Archaeology%20Patches/Archaeological.zip)
 
 
 
@@ -39,8 +39,6 @@ Archaeology |**Diana Mogrovego**| Archaeological_Patches_Peru.xml| [download-per
 
 ## Districts [1875]
 ![img](https://raw.githubusercontent.com/barja8/QGIS-Patches-Peru/master/Peru%20Patches/Peru_districts.png)
-
-## Link of download [Peru](https://github.com/qgisper/QGIS-Patches-Peru/raw/master/Peru%20Patches/Peru_patches.tar)
 
 ## Riego
 

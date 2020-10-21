@@ -16,8 +16,6 @@
 
 <p>
 
-
-
 This repository is a copy of Qgis-Legend-Package created by **Kartosa**.
 Here you'll find a collection of patches for Peru and other temathics to use in your legends inside **QGIS** :3 
 
